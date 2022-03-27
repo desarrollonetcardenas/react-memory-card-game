@@ -1,0 +1,23 @@
+img {
+    display: inline;
+    width: 50%;
+    z-index: 9999;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    /* padding: 15px; */
+}
+
+/* .Card-image {
+    display: block;
+    width: 15%;
+    z-index: 9999;
+}
+
+.Card-image :hover {
+    cursor: copy;
+} */
